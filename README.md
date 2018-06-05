@@ -1,0 +1,1 @@
+# Demo implementation for some of the GOF design patterns in java
